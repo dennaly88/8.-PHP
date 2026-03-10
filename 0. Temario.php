@@ -25,14 +25,9 @@ Temario de Curso de PHP
 10. Ciclos For                = ✅
 11. Ciclos While              = ✅
 12. Ciclos Do While           = ✅
-13. Funciones                 = 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20.        
+13. Funciones                 = ✅
+14. Matriz                    = ✅
+        
 
 
 
